@@ -5,7 +5,7 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Le nom que nous voulions',
+  siteName: 'Le nom que je veux',
   plugins: [
     {
       use: '@gridsome/source-filesystem',
@@ -13,6 +13,12 @@ module.exports = {
         baseDir: './content',
         path: 'projets/*.md',
         typeName: 'Projet',
+      }
+    },
+    {
+      use: `gridsome-plugin-netlify-cms`,
+      options: {
+        publicPath: `/admin`
       }
     },
   ],
