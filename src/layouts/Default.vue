@@ -17,6 +17,7 @@
 query {
   metadata {
     siteName
+    pathPrefix
   }
 }
 </static-query>
