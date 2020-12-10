@@ -1,0 +1,24 @@
+backend:
+  name: github
+  repo: Nocci3/tp-gridsome
+
+media_folder: "static/uploads"
+public_folder: "/uploads"
+
+collections:
+  - name: "projets"
+    label: "Projets"
+    folder: "content/projets"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Image", name: "imageURL", widget: "image"}
+      - {label: "Date", name: "date", widget: "date"}
+      - label: "Tags"
+        name: "tag"
+        widget: "select"
+        multiple: true
+        options: [ "html", "css", "javascript" ]
+        default: [ "html" ]
+      - {label: "Body", name: "body", widget: "markdown"}
