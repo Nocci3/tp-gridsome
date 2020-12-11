@@ -2,8 +2,7 @@
   <Layout>
 
     <!-- Learn how to use images here: https://gridsome.org/docs/images -->
-    <g-image alt="Example image" src="~/favicon.png" width="135" />
-
+    <g-image alt="Apex Legend" src="../../img/Apex_Legends_Logo.png" width="135"/>
     <h1>Hello, world!</h1>
 
     <p>
