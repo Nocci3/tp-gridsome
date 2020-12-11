@@ -1,7 +1,7 @@
 <template>
   <Layout>
 
-    <!-- Learn how to use images here: https://gridsome.org/docs/img -->
+    <!-- Learn how to use images here: https://gridsome.org/docs/image -->
     <g-image alt="Apex Legend" src="../../img/Apex_Legends_Logo.png" width="135"/>
     <h1>Actualités apex legend</h1>
 
@@ -20,7 +20,7 @@
 <script>
 export default {
   metaInfo: {
-    title: 'Actualités apex legend'
+    title: 'Actualités Apex legend'
   }
 }
 </script>
