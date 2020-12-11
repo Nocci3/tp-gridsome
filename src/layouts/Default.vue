@@ -29,6 +29,7 @@ body {
   margin:0;
   padding:0;
   line-height: 1.5;
+  background-color: black;
 }
 
 .layout {
@@ -49,8 +50,5 @@ body {
 .nav__link {
   margin-left: 20px;
 }
-  body{
-    background-color: black;
-  }
 
 </style>
