@@ -49,4 +49,8 @@ body {
 .nav__link {
   margin-left: 20px;
 }
+  body{
+    background-color: black;
+  }
+
 </style>
