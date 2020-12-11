@@ -1,12 +1,12 @@
 <template>
   <Layout>
 
-    <!-- Learn how to use images here: https://gridsome.org/docs/images -->
+    <!-- Learn how to use images here: https://gridsome.org/docs/img -->
     <g-image alt="Apex Legend" src="../../img/Apex_Legends_Logo.png" width="135"/>
-    <h1>Hello, world!</h1>
+    <h1>Actualités apex legend</h1>
 
     <p>
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur excepturi labore tempore expedita, et iste tenetur suscipit explicabo! Dolores, aperiam non officia eos quod asperiores
+        Bienvenue sur mon site dédié au jeux vidéo Apex Legend. Ici vous pourrez retrouver deux pages décrivant les mises à jour sur ces dernières semaines.
     </p>
 
     <p class="home-links">
@@ -29,4 +29,9 @@ export default {
 .home-links a {
   margin-right: 1rem;
 }
+
+body{
+    background-color: darkgrey;
+}
+
 </style>
