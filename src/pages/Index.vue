@@ -2,8 +2,10 @@
   <Layout>
 
     <!-- Learn how to use images here: https://gridsome.org/docs/image -->
-    <g-image alt="Apex Legend" src="../image/Apex_Legends_Logo.png" width="135"/>
-    
+   <div class="logo">
+     <g-image alt="Apex Legend" src="../image/Apex_Legends_Logo.png" width="135"/>
+   </div>
+
     <h1>Actualités apex legend</h1>
 
     <p>
@@ -34,5 +36,16 @@ export default {
 body{
     background-color: darkgrey;
 }
+
+h1{
+  position: center;
+  color: white;
+  font-family: "Amatic SC";
+}
+
+.logo{
+  position: center;
+}
+
 
 </style>

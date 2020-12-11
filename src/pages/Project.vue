@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <h1>Liste des projets</h1>
+    <h1>Mise à jour Apex Legend : Battle Royal</h1>
     <ul>
       <li v-for="{node:projet} of $page.allProjet.edges" :key="projet.id">
         <g-link :to="projet.path">{{projet.title}}</g-link>
