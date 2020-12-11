@@ -26,7 +26,11 @@
 <script>
   export default {
     metaInfo: {
-      title: 'Liste des projets'
+      title: 'Mise à jour Apex Legend : Battle Royal'
     }
   }
 </script>
+
+<style>
+
+</style>

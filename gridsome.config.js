@@ -5,7 +5,7 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Le nom que nous voulions',
+  siteName: 'Présentation Apex Legend',
   plugins: [
     {
       use: '@gridsome/source-filesystem',
