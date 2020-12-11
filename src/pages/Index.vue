@@ -1,4 +1,4 @@
-<template>
+<template class="accueil">
   <Layout>
 
     <!-- Learn how to use images here: https://gridsome.org/docs/image -->
@@ -33,18 +33,18 @@ export default {
   margin-right: 1rem;
 }
 
-body{
+body.accueil{
     background-color: darkgrey;
 }
 
-h1{
-  position: center;
+h1.accueil{
+  display: block;
   color: white;
   font-family: "Amatic SC";
 }
 
 .logo{
-  position: center;
+  display: block;
 }
 
 
