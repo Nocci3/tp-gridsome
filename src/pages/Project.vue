@@ -1,36 +1,38 @@
 <template>
-  <Layout>
-    <h1>Mise à jour Apex Legend : Battle Royal</h1>
-    <ul>
-      <li v-for="{node:projet} of $page.allProjet.edges" :key="projet.id">
-        <g-link :to="projet.path">{{projet.title}}</g-link>
-      </li>
-    </ul>
-  </Layout>
+    <Layout>
+        <h1>Mise à jour Apex Legend : Battle Royal</h1>
+        <ul>
+            <li v-for="{node:projet} of $page.allProjet.edges" :key="projet.id">
+                <g-link :to="projet.path">{{projet.title}}</g-link>
+            </li>
+        </ul>
+    </Layout>
 </template>
 
 <page-query>
-  query {
-    allProjet {
-      edges {
-        node {
-          id
-          path
-          title
+    query {
+        allProjet {
+            edges {
+                node {
+                    id
+                    path
+                    title
+                }
+            }
         }
-      }
     }
-  }
 </page-query>
 
 <script>
-  export default {
-    metaInfo: {
-      title: 'Mise à jour Apex Legend : Battle Royal'
+    export default {
+        metaInfo: {
+            title: 'Mise à jour Apex Legend : Battle Royal'
+        }
     }
-  }
 </script>
 
 <style>
+
+
 
 </style>

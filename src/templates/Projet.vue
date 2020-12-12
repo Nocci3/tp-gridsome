@@ -8,6 +8,7 @@
         </ul>
         <div class="content" v-html="$page.projet.content"></div>
     </div>
+
 </template>
 
 <page-query>
@@ -34,6 +35,34 @@
 </script>
 
 <style>
+
+    img{
+        width: 70%;
+        box-shadow: 10px 5px 5px black;
+        display: block;
+        margin: auto;
+    }
+
+    p{
+        margin-left: 300px;
+        margin-right: 300px;
+    }
+
+    h1{
+        text-align: center;
+        color: darkred;
+    }
+
+    li{
+        text-align: center;
+        list-style-type: none;
+    }
+
+    body{
+        background-color: aliceblue;
+    }
+
+
 
 </style>
 
