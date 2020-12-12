@@ -47,8 +47,10 @@
         height: 80px;
     }
 
-    .nav__link {
-        margin-left: 20px;
-    }
+
+
+  a{
+    text-decoration: none;
+  }
 
 </style>

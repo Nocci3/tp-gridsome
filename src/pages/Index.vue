@@ -99,7 +99,7 @@ p{
 /* Main styles */
 body {
     margin-top: 13.5rem;
-    color: #999;
+    color: black;
     font: 400 16px/1.5 exo, ubuntu, "segoe ui", helvetica, arial, sans-serif;
     text-align: center;
     /* img size is 50x50 */
@@ -123,9 +123,18 @@ body::before {
     font-weight: 100;
     font-style: normal;
 }
-*{
-    color: black!important;
+p{
+    font-weight: bold;
 }
+    li{
+        font-weight: bold;
+    }
+
+    a{
+        font-weight: bold;
+    }
+
+
 
 
 </style>
