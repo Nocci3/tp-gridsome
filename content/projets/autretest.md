@@ -15,7 +15,7 @@ Toute l’équipe d’Apex Legends vous souhaite de joyeuses Holo-Fêtes ! Dé
 
 [](<>)
 
-## UN MOIS D'OFFRES SPÉCIALES
+## **UN MOIS D'OFFRES SPÉCIALES**
 
 Du début du Black Friday, le 24 novembre, jusqu'au 4 janvier, venez chaque semaine découvrir une nouvelle sélection d'offres, avec entre autres de nouveaux skins légendaires pour Loba, Revenant et la Spitfire. Voici un aperçu de ces offres:
 
