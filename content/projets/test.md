@@ -10,7 +10,7 @@ Salut ! Je suis Dave Osei, concepteur de niveaux senior sur Apex Legends. Je vo
 
 Olympus est la troisième carte à s'ouvrir aux joueurs dans Apex Legends. C'est une ville qui flotte au-dessus de la planète Psamathe. Ce nouveau site se caractérise par un terrain artificiel luxuriant et des paysages stylisés qui raviront les amateurs d'opulence. Oubliez les immenses parois rocheuses du Canyon des Rois et de Bord du Monde. Ce sont ici de grands espaces ouverts sur les nuages en contrebas qui vous attendent. Olympus offre deux nouvelles façons de traverser la carte : le **module de phase** ou le **Trident**, le tout premier véhicule d'Apex Legends.
 
-[](<>)
+![image1](/uploads/apex-blog-image-olympus-map-trident-chase.jpg.adapt.1456w.jpg "image1")
 
 ## TRAVERSER OLYMPUS
 
@@ -19,5 +19,7 @@ Olympus est la troisième carte à s'ouvrir aux joueurs dans Apex Legends. C'est
 Ces aéroglisseurs sont faits pour circuler et non pour combattre. Ils ne vous permettront pas de renverser et de blesser des joueurs. Si vous décidez de les utiliser au combat, vos adversaires auront plusieurs moyens de vous contrer. Les étoiles à arc ou les barrières de Wattson, par exemple, peuvent immobiliser le véhicule et donner à l'équipe le temps de vous attaquer. Puisque notre jeu est centré sur les personnages, nous avons voulu que le Trident soit comme une extension du joueur. Par exemple, vous pouvez placer certaines capacités tactiques directement sur le Trident (à l'avant ou à l'arrière). Vous voulez installer deux bonbonnes de gaz de Caustic sur le Trident ? Pas de problème ! Faites vos combinaisons de capacités tactiques en fonction de votre style de jeu. Personnellement, j'aime bien installer la mitrailleuse Sheila de Rampart à l'arrière du Trident. C'est génial, je vous assure ! 
 
 Notez en passant que, si vous sortez accidentellement de la carte avec le Trident, ce n'est pas grave ! Nous avons mis en place une sécurité qui propulsera tous ses passagers en l'air pour leur permettre de regagner Olympus sains et saufs. Le Trident ne réapparaît pas, en revanche. Alors, faites attention !
+
+![image2](/uploads/apex-blog-image-olympus-map-18-phase-runner.jpg.adapt.1456w.jpg "image2")
 
 Le **module de phase**, quant à lui, est un téléporteur de gros volume reliant trois zones distinctes d'Olympus. Ce portail statique permanent transporte les joueurs d'un point spécifique à un autre. Si l’anneau vous pousse vers le **complexe hydroponique** et que vous êtes coincés sans Trident à portée, sautez dans le module de phase pour vous téléporter de l’autre côté de la carte. Cependant, soyez prudents avec ces machines, car vous ne savez pas ce qui vous attend de l’autre côté. Les joueurs à proximité verront et entendront une alerte quand d'autres joueurs seront sur le point de sortir du portail. Alors, préparez-vous toujours à combattre lorsque vous utilisez le module de phase
